@@ -177,7 +177,7 @@ draw2d(Points2D(*positions))
 
 
     
-![png](output_15_0.png)
+![output_15_0](https://user-images.githubusercontent.com/100830660/181004041-d3b23d25-d3a5-487a-b682-8610b02136b0.png)
     
 
 
@@ -220,7 +220,7 @@ draw2d(
 
 
     
-![png](output_18_0.png)
+![output_18_0](https://user-images.githubusercontent.com/100830660/181004050-2db06057-ce13-48d1-9013-9fe8050886b5.png)
     
 
 
@@ -238,7 +238,7 @@ draw2d(
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/100830660/181004052-88c01b82-003a-46ed-8a0b-8de901a92d07.png)
     
 
 
