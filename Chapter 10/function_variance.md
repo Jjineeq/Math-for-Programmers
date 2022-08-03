@@ -53,7 +53,7 @@ plot_volume(volume3,-1,1)
 
 
     
-![png](output_4_0.png)
+![output_4_0](https://user-images.githubusercontent.com/100830660/182598514-353df6c6-ef57-4995-93db-b4ac42cb3935.png)
     
 
 
@@ -66,6 +66,6 @@ plot_volume(volume,-1,1)
 
 
     
-![png](output_5_0.png)
+![output_5_0](https://user-images.githubusercontent.com/100830660/182598520-31344a68-5336-49e6-9dd3-ec5c8e688f5e.png)
     
 
